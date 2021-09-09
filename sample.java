@@ -112,10 +112,5 @@ public class sample {
     // double d2 = 4;
     // double d3 = d1 /d2;
     // System.out.println(d3);
-    
-    
-    
-    
-    
   }
 }
